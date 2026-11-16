@@ -274496,7 +274496,7 @@ value = "https://www.xmind.app/";
 },
 {
 key = vendorID;
-value = XMIND;
+value = XMND;
 }
 );
 stems = (
